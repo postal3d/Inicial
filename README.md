@@ -1,2 +1,1 @@
-# Inicial
-Creando la holding page
+Texto en el Archivoo Readme creado automaticamente
